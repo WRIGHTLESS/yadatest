@@ -1,6 +1,8 @@
 <YealinkIPPhoneDirectory>
-<DirectoryEntry>
-<Name>Chris Test</Name>
-<Telephone>07498174441</Telephone>
-</DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Chris TEST</Name>
+        <Telephone>5053</Telephone>
+        </DirectoryEntry>
+
 </YealinkIPPhoneDirectory>
